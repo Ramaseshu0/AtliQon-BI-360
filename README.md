@@ -44,10 +44,23 @@ Interactive AI/BI dashboard (premium blue theme) with:
 - **Product Price vs Quantity** — scatter plot (avg price vs units sold per product)
 - **Filters** — quarter, year, month, channel, category
 
+### Dashboard Preview
+
+#### Sales Insights — Performance Dashboard
+
+![Sales Insights Performance Dashboard](assets/sales-insights-performance-dashboard.png)
+
+#### Product Price vs Quantity
+
+![Product Price vs Quantity Dashboard](assets/product-price-vs-quantity-dashboard.png)
+
 ## Repository Structure
 
 ```
 ├── README.md
+├── assets/
+│   ├── product-price-vs-quantity-dashboard.png
+│   └── sales-insights-performance-dashboard.png
 ├── dashboard/
 │   └── atliqon_bi360.lvdash.json     # AI/BI dashboard definition (importable)
 ├── notebooks/
